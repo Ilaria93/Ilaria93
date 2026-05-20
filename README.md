@@ -1,6 +1,6 @@
 <div align="center">
 
-![aesthetic-wallpaper (1)](https://raw.githubusercontent.com/dawcorp/dawcorp/main/smartwork1.jpg)
+![aesthetic-wallpaper (1)](https://github.com/Ilaria93/Ilaria93/blob/main/chibi_me.png)
 
 <h1 align="center">Hi 👋 I'm Ilaria Pascucci</h1>
 <h3 align="center">Frontend Developer | React & TypeScript Specialist</h3>
